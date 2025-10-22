@@ -20,7 +20,7 @@ I successfully advanced through the **Practice**, **Round 1**, and **Round 2 (Ad
 The **Practice Round** served as the warm-up phase for the competition, allowing participants to familiarize themselves with the problem format, scoring system, and time constraints.  
 I successfully **completed and cleared the Practice Round**, ensuring eligibility for the official rounds.  
 
-![Practice Round Certificate](Mujib Ur Rahman (Mujib ur Rahman)'s certificate for Meta Hacker Cup - 2025_page-0001.jpg)  
+![Practice Round Certificate](https://github.com/MujiburRahman1/Meta_Hacker_Cup_2025/blob/53d54edfae862ac4e97e6b8584b1df9dbc5c3bf8/Meta%20Hacker%20Cup%20Round%201/certificate%20for%20Meta%20Hacker%20Cup%20%20round%201-%202025_page-0001.jpg)  
 
 ---
 
