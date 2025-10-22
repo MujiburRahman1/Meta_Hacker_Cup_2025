@@ -40,7 +40,7 @@ After the practice phase, I participated in the official competitive rounds of *
 
 Below is a glimpse of my performance and progression in the **Meta Hacker Cup 2025**.  
 
-![Scoreboard](scoreboard.png)  
+![Scoreboard](https://github.com/MujiburRahman1/Meta_Hacker_Cup_2025/blob/d6a9837140c51e9e6ce68397d5bb5fb9f011bf4c/Meta%20Hacker%20Cup%20Round%201/meta%20rank.png)  
 
 ---
 
