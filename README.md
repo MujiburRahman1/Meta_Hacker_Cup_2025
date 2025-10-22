@@ -82,8 +82,8 @@ All problems were implemented and tested in **Python**, following computational 
 ## 🔗 References  
 
 - [Meta Hacker Cup Official Website](https://www.metacup.com)  
-- [GitHub Repository](https://github.com/codewithEshaYoutube/Meta_Hacker_Cup_2025)  
-- **Author:** Eesha Tariq  
+- [GitHub Repository](https://github.com/MujiburRahman1/Meta_Hacker_Cup_2025)  
+- **Author:** Mujib ur Rahman
 - **Achievement:** Qualified for **Round 2 (Top 5% Worldwide, Top 80 Pakistan)**  
 
 ---
