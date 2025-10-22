@@ -8,8 +8,8 @@ This repository contains my official submissions and optimized solutions for **M
 
 I successfully advanced through the **Practice**, **Round 1**, and **Round 2 (Advanced Round)** of Meta Hacker Cup 2025, securing a position among the **Top 5% programmers worldwide**. Competing against over **80,000 elite participants**, including **ICPC medalists and top global programmers**, this achievement highlights my expertise in algorithmic design, logical reasoning, and high-performance problem-solving.  
 
-- **Global Rank:** Top 4,000 out of 80,000+ participants (**Top 5%**)  
-- **National Rank:** Top 80 in Pakistan  
+- **Global Rank:** Top 1,614 out of 80,000+ participants (**Top 5%**)  
+- **National Rank:** Top 60 in Pakistan  
 - **Competition Level:** International (organized by **Meta**, formerly Facebook)  
 - **Core Strengths:** Algorithm design, data structures, optimization under time constraints  
 
