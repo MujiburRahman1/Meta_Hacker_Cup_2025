@@ -30,7 +30,7 @@ After the practice phase, I participated in the official competitive rounds of *
 
 - Advanced through **Round 1** with high accuracy and optimized submissions.  
 - Officially **qualified for Round 2 (Advanced Round)**, performing among the **world’s top 5%**.  
-- Achieved ranking within the **Top 4,000 globally** and **Top 80 in Pakistan**, competing against thousands of elite programmers worldwide.  
+- Achieved ranking within the **Top 1,614 globally** and **Top 60 in Pakistan**, competing against thousands of elite programmers worldwide.  
 
 ![Round 1 Completion](https://github.com/MujiburRahman1/Meta_Hacker_Cup_2025/blob/434514140434c007036e4070f39f0900cbe089fc/Meta%20Hacker%20Cup%20Round%201/certificate%20for%20Meta%20Hacker%20Cup%20%20round%201-%202025_page-0001.jpg)  
 
@@ -84,7 +84,7 @@ All problems were implemented and tested in **Python**, following computational 
 - [Meta Hacker Cup Official Website](https://www.metacup.com)  
 - [GitHub Repository](https://github.com/MujiburRahman1/Meta_Hacker_Cup_2025)  
 - **Author:** Mujib ur Rahman
-- **Achievement:** Qualified for **Round 2 (Top 5% Worldwide, Top 80 Pakistan)**  
+- **Achievement:** Qualified for **Round 2 (Top 5% Worldwide, Top 60 Pakistan)**  
 
 ---
 
