@@ -32,7 +32,7 @@ After the practice phase, I participated in the official competitive rounds of *
 - Officially **qualified for Round 2 (Advanced Round)**, performing among the **world’s top 5%**.  
 - Achieved ranking within the **Top 4,000 globally** and **Top 80 in Pakistan**, competing against thousands of elite programmers worldwide.  
 
-![Round 1 Completion](certificate for Meta Hacker Cup  round 1- 2025_page-0001.jpg)  
+![Round 1 Completion](https://github.com/MujiburRahman1/Meta_Hacker_Cup_2025/blob/434514140434c007036e4070f39f0900cbe089fc/Meta%20Hacker%20Cup%20Round%201/certificate%20for%20Meta%20Hacker%20Cup%20%20round%201-%202025_page-0001.jpg)  
 
 ---
 
