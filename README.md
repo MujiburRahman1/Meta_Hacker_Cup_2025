@@ -20,7 +20,7 @@ I successfully advanced through the **Practice**, **Round 1**, and **Round 2 (Ad
 The **Practice Round** served as the warm-up phase for the competition, allowing participants to familiarize themselves with the problem format, scoring system, and time constraints.  
 I successfully **completed and cleared the Practice Round**, ensuring eligibility for the official rounds.  
 
-![Practice Round Certificate](meta-hacker-cup.png)  
+![Practice Round Certificate](Mujib Ur Rahman (Mujib ur Rahman)'s certificate for Meta Hacker Cup - 2025_page-0001.jpg)  
 
 ---
 
@@ -32,7 +32,7 @@ After the practice phase, I participated in the official competitive rounds of *
 - Officially **qualified for Round 2 (Advanced Round)**, performing among the **world’s top 5%**.  
 - Achieved ranking within the **Top 4,000 globally** and **Top 80 in Pakistan**, competing against thousands of elite programmers worldwide.  
 
-![Round 1 Completion](round1_completion.png)  
+![Round 1 Completion](certificate for Meta Hacker Cup  round 1- 2025_page-0001.jpg)  
 
 ---
 
